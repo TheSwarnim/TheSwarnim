@@ -78,6 +78,11 @@ Hi, I'm [Swarnim Pratap Singh](https://github.com/TheSwarnim), Competitive Progr
 <img style="border-radius: 5px; margin: 0 0 5px 35px;" alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="400" height="280" />
 </p>
 
+
+<br><br>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nalin-programmer&layout=compact)](https://github.com/nalin-programmer/github-readme-stats)
+
 <p align='center'>
   <details>
 <summary>📈 My GitHub Stats</summary>
